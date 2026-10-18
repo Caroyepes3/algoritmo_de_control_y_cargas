@@ -11,6 +11,17 @@ Este proyecto contiene un algoritmo desarrollado en **MATLAB** diseñado para la
 * **Fase:** Reto 3 (Algoritmo de Control y Cargas)
 
 ---
+## Descripción
+Algoritmo que gestiona la distribución de energía entre paneles solares, aerogeneradores y bancos de baterías en una micro-red híbrida.
+
+## Uso
+Ejecutar `algoritmo_de_control_y_cargas.m` en MATLAB.
+
+## Variables principales
+- Demanda: consumo en kW
+- Generación solar/eólica: producción en kW
+- Estado de carga de baterías: SOC (%)
+--
 
 ## 🛠️ Archivos Incluidos en el Repositorio
 
