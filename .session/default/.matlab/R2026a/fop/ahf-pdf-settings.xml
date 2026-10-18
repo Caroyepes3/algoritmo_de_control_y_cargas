@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><formatter-config>
+  <formatter-settings border-medium-width="3pt" border-thick-width="5pt" border-thin-width="1pt" default-CJK="jpn" default-color="#000000" default-font-size="12pt" default-lang="eng" default-page-height="11in" default-page-width="8.5in" normal-line-height="1.2" punctuation-spacing="0.5" punctuation-trim="true" pxpi="96" text-autospace="true" text-autospace-width="0.25" two-pass-formatting="false" vertical-underline-side="auto"/>
+  <!-- merged from font-settings-<platform>
+  <font-settings/>
+  -->
+  <!-- merged from pdf-settings or pdfa-settings
+  <pdf-settings/>
+   -->
+<pdf-settings color-compression="auto" color-jpeg-quality="80" embed-all-fonts="true" error-on-embed-fault="false" master-password="" no-adding-or-changing-comments="false" no-changing="false" no-content-copying="false" no-printing="false" rasterize-resolution="108" text-and-lineart-compression="true" use-launch-for-local-file="false" user-password=""/><font-settings auto-fallback-font="true">
+    <script-font fallback="'Noto Sans',Helvetica" sans-serif="Liberation Sans"/>
+</font-settings></formatter-config>

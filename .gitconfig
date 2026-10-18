@@ -1,0 +1,12 @@
+[user]
+	name = ""
+	email = ""
+	signingkey = ""
+[commit]
+	gpgsign = false
+[gpg]
+	format = openpgp
+[gpg "openpgp"]
+	program = ""
+[credential]
+	username = Caroyepes3
