@@ -5,7 +5,7 @@ Este proyecto contiene un algoritmo desarrollado en **MATLAB** diseñado para la
 
 ## ✅ Uso
 1. Abre el archivo `algoritmo_de_control_y_cargas.m` en MATLAB
-2. Ejecuta el script
+2. [Ejecuta el script](https://github.com/Caroyepes3/algoritmo_de_control_y_cargas/blob/main/algoritmo_de_control_y_cargas.m) 
 3. Visualiza los resultados de generación, consumo y estado de las baterías
 
 ## 📝 Variables Principales
